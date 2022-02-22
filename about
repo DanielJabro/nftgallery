@@ -60,7 +60,9 @@
         
       <!-- Basic paragraph -->
       <center>
-      <p>As you know, I'm an NFT owner and collector. I've created this gallery to display my NFTs. If you have any questions or would like to chat, you could contact me at dajabnft@gmail.com</p>
+      <p>As you know, I'm an NFT owner and collector.</p> 
+      <p>I've created this gallery to display my NFTs.</p>
+      <p>If you have any questions or would like to chat, you could contact me at dajabnft@gmail.com</p>
       </center>
       <br/>
         
@@ -68,7 +70,8 @@
         
       <!-- Basic paragraph -->
       <center>
-      <span><p>If you would like to purchase or check out my NFTs on open seas, you can access it through this link</p></span>
+      <span><p>If you would like to purchase or check out my NFTs on open seas,</p>
+      <p>you can access it through this link</p></span>
         <span><a href="https://opensea.io/account" target="_blank"><h4>here</h1></a></span>
       </center>
       <br/>  
